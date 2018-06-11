@@ -344,13 +344,13 @@ a.copyright{
         margin: 10px;
     }
     .col-block{
-        width: 45%;
+        width: 50%;
         display: block;
         float: left;
     }
     
     .col-links{
-        width: 55%;
+        width: 50%;
         float: left;
         display: block;
         text-align: right;
